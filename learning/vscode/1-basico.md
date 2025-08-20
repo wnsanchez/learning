@@ -19,7 +19,8 @@ Busqueda con expresiones regulares (REGEX)
 ### GIT 
 ### ENTRAR A TERMINAL
 #### 1- Terminal
-Entrar a la pestaña `Terminal` 
+Entrar a la pestaña `Terminal` > ``
 
 
 
+### Run y Debugging
