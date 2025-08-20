@@ -33,7 +33,8 @@ git config --global color.ui auto
 Las configuraciones se guardan en `~/.gitconfig`
 
 
-
+### Otros comandos
+#### 
 
 
 
