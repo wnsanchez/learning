@@ -1,0 +1,52 @@
+# ================================================
+# ✅ Maven (Build System)
+# ================================================
+target/
+**/target/
+
+# Maven Wrapper (¡NO ignores el .jar!)
+.mvn/
+!/.mvn/wrapper/maven-wrapper.jar
+mvnw
+mvnw.cmd
+
+# ================================================
+# ✅ IntelliJ IDEA (IDE)
+# ================================================
+.idea/
+*.iml
+*.iws
+*.ipr
+**/out/
+
+# ================================================
+# ✅ Eclipse (IDE)
+# ================================================
+.project
+.classpath
+.settings/
+.factorypath
+.apt_generated/
+.springBeans/
+.sts4-cache/
+
+# ================================================
+# ✅ VS Code (Editor)
+# ================================================
+.vscode/
+
+# ================================================
+# ✅ NetBeans (IDE)
+# ================================================
+nbproject/private/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+# ================================================
+# ✅ Sistema Operativo (archivos basura)
+# ================================================
+.DS_Store      # macOS
+Thumbs.db      # Windows
+
