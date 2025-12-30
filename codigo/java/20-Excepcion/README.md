@@ -46,7 +46,7 @@ Sirve para lanzar una excepción dentro del cuerpo de un método.
 Donde se usa:
  - Dentro de un método
  - Dentro de un if, un bloque lógico, una validación
- - Para detener el método cuando algo no cumple una regla
+ - Para detener el método c[README.md](README.md)uando algo no cumple una regla
 
 ```
 throw new TipoDeExcepcion("Mensaje");
