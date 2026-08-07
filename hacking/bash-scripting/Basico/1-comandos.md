@@ -10,4 +10,4 @@
   * `echo $SHELL` -> muestra que shell estoy usando actualmente
   * `cat /etc/shells` -> muestra las shells disponibles (zsh, sh, ...)
   * `comando &>/dev/null & disown` -> Manda stderr y stdout al /dev/null(agujero negro) y disown lo mantiene en segundo plano
-
+  * `ctrl` + `alt` -> Permite copiar en vertical 

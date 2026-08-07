@@ -106,3 +106,5 @@ ncat --ssl localhost 30001
   * Hace el TLS handshake
   * Negocia cifrado
   * Te deja en modo interactivo
+
+

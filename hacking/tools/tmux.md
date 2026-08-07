@@ -6,10 +6,15 @@
   * `ctrl + b` -> `c` | Nuevo panel
   * `ctrl + b` -> `o` | Mover entre ventanas
   * `ctrl + b` -> `d` | Poner en foreground
+  * `tmux list-sessions` | Lista las sesiones activas
   * `tmux attach -t nombre` | Entrar a sesión específica
   * `ctrl + b` -> `shift + "` | dividir horizontal
   * `ctrl + b` -> `shift + %` | dividir vertical
   * `ctrl + b` -> `w` | Ver lista de sessiones y cambiar
   * `ctrl + b` -> `z` | Zoom de un panel
-
+  * `ctrl + b` -> `shift + [` | Entrar en modo copia
+    * Movernos con flechas
+    * `ctrl + espacio` | Para empezar selección 
+    * `alt + w` | Para copiar lo seleccionado
+    * `ctrl + b` -> `shift + ]` | Pegar 
 
